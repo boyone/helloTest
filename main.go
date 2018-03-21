@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 
-	"./web"
+	"github.com/boyone/helloTest/web"
 )
 
 func main() {
